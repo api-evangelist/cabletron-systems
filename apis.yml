@@ -37,7 +37,7 @@ x-tier-reason: company-ceased-operations-2001-assets-now-extreme-networks
 x-status: defunct
 x-defunct-year: 2001
 x-successor: Extreme Networks (via Enterasys Networks, acquired 2013)
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
