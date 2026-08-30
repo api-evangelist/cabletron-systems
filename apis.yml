@@ -74,3 +74,9 @@ x-enrichment:
   notes: 'Searched and probed: company defunct since 2001, no live domain, no developer
     surface. cabletron.com and enterasys.com redirect to extremenetworks.com. No artifacts
     applicable.'
+common:
+- type: ParentCompany
+  url: https://apis.io/providers/extreme-networks/
+  name: Extreme Networks
+  x-relationship: acquired
+  x-evidence: "Riverstone was acquired by Lucent and later liquidated."
